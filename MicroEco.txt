@@ -1,0 +1,955 @@
+income inequality lorez,gini and quintiles
+
+
+
+in this section of the course what we're
+talking about is income inequality in
+other words why is it that some people
+make more than others and as a part of
+this topic we're going to be talking
+about poverty what it means how its
+measured and discrimination as one of
+the reasons why some people make more
+than others the first thing we have to
+talk about before we talk about anything
+about income inequality is that when we
+discuss things like poverty and income
+inequality we're not usually talking
+about individuals and how their incomes
+are different we're usually talking
+about households so let's first talk for
+a minute about what a household is so
+when we talk about an income
+distribution how some people make more
+than others and we're going to look at
+one of these in a few different ways in
+a minute we're talking about household
+income and equality so we have to
+understand what a household is before we
+get going but a brief definition is that
+a household includes all the persons who
+occupy a housing unit
+what's a housing unit well a housing
+unit is a house an apartment a mobile
+home a group of rooms or a single room
+that is occupied or if vacant is
+intended for occupancy as separate
+living quarters so it could be a house
+an apartment a mobile home or it could
+even be a dorm room so when we start
+thinking about some households making
+more than others we have to include all
+the different versions of households and
+we have to think about all those in our
+minds that when we measure incomes for
+some of these households it's going to
+be a dorm room a single person living in
+a single dorm room perhaps all the way
+up to there might be a mansion with a
+hundred people living there several
+generations in a large house keep that
+in the back of your mind when you think
+about income inequality we always have
+to have in the back of our minds what it
+is we're measuring so we're measuring
+household incomes we add up all the
+incomes of all the people living in
+whatever it is that we're calling a
+household and those things are very
+diverse
+so what are the causes of income
+inequality is just the fact that
+households are unequal we're talking
+about a lot of different things here
+when we say the word household we're not
+talking about some unified nineteen
+forties ideal of a mummy and a daddy and
+two and a half kids living in a
+household right okay now let's look at
+an income distribution as a histogram so
+this is a histogram showing for each
+income grouping in $5,000 increments
+here what percent of the households in
+the United States in the year 2014
+earned amounts in different income
+groups here so we see that about almost
+four percent of households earned less
+than five thousand dollars about three
+and a half percent between 5,000 and
+$10,000 etc and then when we get all the
+way up to the high end here we see that
+there's about five and a half percent if
+we look over here at the y-axis about
+five and a half percent of households
+total income was $200,000 and more the
+median income tells us that 50 percent
+of households earned more than this
+amount and fifty percent of households
+earn less than this amount and this is
+at about fifty three thousand six
+hundred fifty seven dollars here the
+mean the average if you add up all the
+income of all the households and divide
+it by the number of households we get
+about seventy five thousand seven
+hundred thirty eight dollars so the
+average income about seventy-six
+thousand dollars the median household
+income about 53 or 54 thousand dollars
+it's just telling us that half the
+households earn more than this half the
+households total earn less than this so
+if we were going to have a society where
+there was no income inequality what
+would have to happen is that all
+households would have to be in the same
+group right we might have every single
+household have a total income of $76,000
+we wouldn't have this spread out
+distribute
+here is that what we want would that be
+somehow fair if every single household
+earned seventy six thousand dollars well
+in my opinion the answer is no because
+some of these households would be one
+person living alone in a dorm room and
+some of these households might be again
+three generations of grandparents and
+parents and children you might have 25
+people living in a house I don't think
+it's fair for every single household
+type to be earning the same amount of
+money because it doesn't make sense
+we're not holding the number of people
+in a household constant right so this is
+another thing to keep in mind when we
+talk about income inequality what's the
+goal is it to make incomes perfectly
+equal and if so what does that even mean
+so let's talk about some ways to measure
+income inequality so there are a lot of
+different ways we can measure income
+inequality dozens that I know of but
+let's go through the standard easy kind
+of way and this is the most common way
+you see this kind of thing done
+first thing is we divide households into
+income quintiles what this means is we
+take all the households add up the total
+income and we line them in order from
+the lowest total income to the highest
+total income households and we divide
+them in two quintiles and what this
+means is we're going to divide them into
+five groups since quint means five so
+we're going to take the bottom 20% of
+households the lowest income 20% and
+then the next 20% so if you look at this
+table here the we might call them the
+poorest 20% lower middle 20% the middle
+20% the upper-middle 20% and the highest
+20% of incomes ok second thing we do
+this is named after a guy named Lorenz
+he came up with the idea of making a
+graph called a Lorenz curve and what we
+do is we add up the total percent of the
+income earned by all the households from
+the
+poorest to the richest and we're going
+to do that a couple of times here so
+that we get an idea of how this is done
+and what it means so let's go ahead and
+get started and let's make a few Lorenz
+curves here so let's suppose we were
+working with some data here from several
+countries first country a country a is a
+perfectly equal country at least in
+terms of households so let's assume
+there's some government and they go
+through and they ensure that every
+single household in their country earns
+exactly the same amount of money so
+there's going to be no income inequality
+so what's going to happen when we line
+up all these households from the lowest
+income households to the highest income
+households well it doesn't matter what
+order we put them in because they all
+learn the same amount so if we take the
+poorest 20% or the lowest income 20% and
+we add up what percent of the total
+income in the nation do they earn what
+we're going to get is that they earn 20%
+of the total income right the poorest
+20% of households get 20% of the income
+a fifth of the households get a fifth of
+the total income and then the next group
+since they're exactly the same they're
+also going to get 20% so we just take
+the total income of the country we
+divide the households into five groups
+and each of the five groups gets a fifth
+of the income 20% of the income now in
+order to make this thing we call a
+Lorenz curve we need to make a
+cumulative distribution of the income
+now what this means is we're going to
+add up so cumulative means add up as you
+go along from the beginning to the end
+think about a cumulative GPA from the
+beginning of your career as a student to
+the end the GPA kind of accumulates or
+gets added up the number of credit hours
+you get adds up so you might look at
+your transcript and see a cumulative
+earned hours number on there so in order
+to make a cumulative distribution you're
+trying to answer the question what's the
+total percent of income that is earned
+by this
+or all the groups earlier in the list so
+the first one here is simply going to be
+the first number twenty percent what's
+the total amount of income in this first
+group or the group's earlier well it's
+just this first twenty percent here then
+when we add in the next group we take
+this twenty percent and we add in the
+twenty percent to the next group and we
+get forty percent cumulative adding up
+as we go along and that forty percent
+means that in this second group or
+earlier they are sharing a total of
+forty percent of the income and then we
+add in the twenty percent to the next
+group this first example it's a bit
+silly but it makes an important point
+you'll see when we get there we're just
+adding up as we go along and the last
+number and a cumulative distribution
+must always be a hundred percent telling
+us that all the group's share all of the
+income now what's this going to look
+like if we graph it on a graph like this
+where on the x axis we have cumulative
+families from the lowest income to the
+highest income on the x-axis and then
+we're putting the cumulative amount of
+income they share on the y axis well if
+we graph all those points they're just
+gonna be the points on this straight
+line I've already graphed the bottom 20%
+share 20% of the income the bottom 40 40
+60 60 etc so we get this straight line
+to connect all these this is what
+country A's Lorenz curve would look like
+it just helps us visualize the income
+distribution so now we've learned
+something that if you're looking at a
+country whose income distribution is
+perfectly equal the Lorenz curve looks
+like a perfect straight line in these
+graphs we always put a straight line for
+reference to help our eye see what would
+an income distribution look like if it
+was perfectly equal and we call this
+line the line of perfect
+quality now no country on earth is going
+to be exactly like this but we put this
+line in there so that we can visualize
+how close a country is to perfect
+equality let's look at country B here
+country B is a very different country so
+in country B the poorest or the lowest
+income 20% of the country earning Li 4
+percent of the income and the lower
+middle 20% they also only earn 4 percent
+of the income and the middle class will
+they earn 4 percent of the income and
+the upper middle class they are in 4
+percent of the income and then there's a
+20% of this country that's like the
+elite the ruling class perhaps and
+they're the ones who get all the rest of
+the income eighty-four percent this
+country is not very equal what we might
+be thinking of here is a country where
+most people are rural they live way out
+in the country they're poor farmers and
+then there are a small amount of people
+who live and say a large city and these
+people are part of the nobility or the
+ruling class or the educated class or
+something like that
+but 80 percent of the country these
+bottom four groups the bottom 80% are
+all very poor they're very equal but
+then most of the income eighty-four
+percent of the total is had by just this
+top twenty percent of elites all right
+well let's calculate this cumulative
+distribution and graph it and let's see
+what it looks like so we always start a
+cumulative distribution with just the
+percent in the bottom category here so
+it's going to be 4 percent saying that
+in this first category the poorest 20%
+or before will the only category share 4
+percent of the income and then we add up
+as we go along this 4 percent plus this
+4 percent 8 percent so the bottom 40%
+share 8 percent
+the income we can tell that's not equal
+the bottom 60% we add in this 4% the
+
+bottom 60% share only 12% to the income
+and then we add in the next group 16%
+total so the bottom 80% of people in
+this country only have access to 16
+percent of the total income and then the
+last number is always a hundred percent
+because we're adding in this 84 percent
+so there's our cumulative distribution
+and now what we do is we graph this
+cumulative distribution on this graph
+right over here so what we're going to
+do is try to eyeball this as close as we
+can we can't be perfect when we're
+making a graph by hand like this so the
+poorest 20% only get 4 percent of the
+income so that's gonna be way below
+halfway here right so let's say that's
+about 4 percent and put a dot about
+right here and then the next point is
+gonna say that the bottom 40% only get
+about 8 percent so about right there
+less than halfway because halfway would
+be 10% the bottom 60% a little more than
+halfway is that's going to be this 12
+percent here the bottom 80% share 16
+
+percent of the income all right we're
+getting almost up to the 20 there and
+then the bottom 100% share 100 percent
+of the income so here's our last point
+is always going to be up here on that
+line of equality and then usually we
+also put a point down here at 0 0 so
+let's put a point down there and then we
+connect all these dots there we go so
+
+this would be the Lorenz curve for
+country B this country that has a very
+unequal income distribution so this kind
+of graph helps us to visualize that this
+second country their income distribution
+is very far away from this line of
+perfect equal
+quality that straight line or that
+45-degree line sometimes we'll call it
+now after Lorenz came up with this idea
+an Italian named Corrado Jeannie said
+hey you know looking at a graph is cool
+but how about coming up with a way to
+calculate some number instead of asking
+people how unequal does this look to you
+let's come up with a way to calculate a
+number to represent how unequal the
+incomes actually are so Corrado Jeannie
+came up with this following idea
+he said let's draw a box here that looks
+like a triangle so this purple side here
+purple side on the bottom and that line
+of perfect equality make up a triangle
+let's suppose we calculated the area of
+that triangle what's the formula for the
+area of a triangle
+well it's 1/2 times base times height so
+we could easily calculate the area of
+that triangle and corrado Jeannie said
+let's compare the area of the whole
+triangle there to how much of the area
+is inside this bit right here so we want
+
+to compare this blue shape which in this
+case is a different kind of triangle to
+that larger purple triangle and ask the
+question what percent of the total area
+does this blue shape take up here's what
+we're talking about if we label this
+area in the middle to be a that's area a
+and down here the outside the rest of
+this large triangle is B we want to know
+how big is a compared to the total size
+of the triangle which is a plus B we
+want to know that ratio we call that the
+Jeannie ratio or the Gini coefficient so
+let's try to guesstimate about how big
+that is just using your eyes ask
+yourself if I look at that a area what
+
+percent of the total triangle does it
+take up let me kind of hell
+guide you here does it look like this a
+is bigger than half of the total
+triangle or less than half of the total
+and to me it looks like it's bigger than
+half all right do you think it's like
+90% of the total triangle I don't think
+it's quite 90% do you think it's 80% 70%
+60% what's your guess to me it looks
+
+like it's around two-thirds somewhere in
+the neighborhood of about two-thirds of
+the total and hopefully you can kind of
+agree with me there because that's
+pretty close to being exactly right so
+the Gini coefficient for country B here
+would be about point six four in this
+case now how do I know that well I have
+computer programs that can calculate it
+for us we could also do some geometry
+and we could calculate these areas right
+it's something we could do it's not
+something we're going to do by hand in
+this class except we might look at an
+example or two where it's really really
+easy to see what's going on okay but
+mostly we just want to be able to
+visualize and understand the bigger that
+area a is what does telling us is that a
+country's income is getting more and
+more and more unequal as we get away
+from this line of perfect equality here
+as we drag that down we're getting more
+unequal now the worst case scenario
+would be what if this area a took up the
+entire triangle now theoretically the
+only way for that happen would be if no
+one in the country earned any money so
+the bottom forty percent are nothing 60%
+nothing eighty percent nothing and then
+the only person that earns anything is
+like one king Shh all right it would
+shoot up like that the total area would
+be in this area here so the Gini
+coefficient as it gets larger this area
+gets larger and that means there's more
+and more and more inequality all right
+let's do one for the United States here
+so let me show you
+what the income distribution looks like
+for the United States approximately so
+first thing let's mention just in case
+you are wondering again we're talking
+about household incomes here what's the
+difference between household and what an
+individual makes well the median
+earnings for an individual person in the
+United States in 2017 was about $45,000
+so that's just one person but since many
+households have more than one income
+earner household income the median is
+going to be larger than that so let's
+divide the households in the United
+States into quintiles here's
+approximately what this would look like
+so the total household income for the
+lowest 20% of households is between 0
+and 22,000 roughly the next 20% 20 2001
+to 41,000 middle 20% forty-one to 68,000
+
+the next 20% 68,000 111 approximately
+and to get into the highest twenty
+percent the highest quintile you need to
+make over a hundred and eleven thousand
+dollars in the household as a total now
+an easy way to visualize this
+distribution that I came up with I just
+sat down and said what are the simplest
+numbers we could use to kind of think
+about if the total income in the United
+States was thirty three say thirty three
+dollars or thirty three billion or
+thirty three trillion then the bottom
+20% would get one out of thirty three or
+about three percent of the total income
+the next group of households would get
+about three out of thirty three which is
+around nine percent to the total income
+and the middle-class group would get
+about five out of thirty three or about
+fifteen percent seven out of 33 or about
+twenty one percent for the upper-middle
+class group if that's what we want to
+think of a mass and then this highest
+group it's about 17 at a thirty three a
+little more than half of the total
+income fifty-two percent is this okay
+this is part of this not just measuring
+things but thinking about how do I react
+to this as a human being living in the
+United States is this okay that this
+bottom twenty
+of households only gets three percent of
+the income and that these households
+only earn zero to $22,000 is that
+terrible well we have to think about who
+these bottom two groups are most likely
+to be again think about what households
+are many many households in the United
+States are dorm rooms and I'm sorry but
+I spent a long time is a very very poor
+student if your income and your
+household is low more or less by choice
+I mean you're choosing not to earn a
+high income right now because you're
+going to school and you're investing in
+yourself I don't think that's a travesty
+I don't think that's something that we
+should lose sleep over at night many of
+these households in the bottom two
+groups are going to be people who are
+retired and so they don't have a high
+income either again if you're retired
+you're not working of course I don't
+want you to be in a state where you are
+starving to death but your income is
+going to be low one thing to keep in
+mind is when we're talking about income
+inequality we're not talking about
+wealth let's think about what the
+difference between income and wealth is
+income is how much money you're bringing
+in how much you're earning each month
+and so if you're a college student or if
+you're retired you're not gonna have a
+lot of money coming in each month wealth
+a lot of retired people they might own
+their home own their cars have it all
+paid off and they might have millions of
+dollars sitting in a retirement account
+sitting in the bank or invested in the
+stock market that wealth is not the same
+thing as income so you might be Bill
+Gates and if you have your asset
+structured in such a way that you don't
+actually have money coming in to your
+household you have it in some kind of
+investment where it's just sitting there
+you could possibly be in one of the
+lower income quintiles here even though
+you're very wealthy so because you're
+not earning a lot of money doesn't mean
+you're starving doesn't mean you're
+homeless
+it just means that you don't have a lot
+of money coming in so to the extent that
+there are going to be
+some people in these lower groups where
+it could be a single mother and three
+kids maybe we should be concerned about
+that
+we'll talk a little bit more about that
+in a minute so let's fill in these
+percentages in cumulative percentages
+over here on our graph and then let's
+graph and see what is the United States
+Lorenz curve look like and what is the
+Gini coefficient for the United States
+look like to us all right so let's place
+these numbers down here on the graphs
+graph says that the bottom 20% or an
+only 3% of the income so way down here
+the bottom 40% earned about 12% okay a
+little more than half way bottom 60%
+earned about 27% that's going to be
+somewhere in here the bottom 80% earned
+almost 50% but not quite so that's going
+to be right in here and then our last
+dot up here and then we put our first
+dot down here at 0 0 and we connect
+these dots all right so let's look at
+
+what this is telling us and let's draw
+our larger triangle here to help us
+visualize in the United States
+approximately what is the Gini
+coefficient so when we look at that
+ratio of the area a over the total a
+plus B what does it look like to you
+a over a plus B in other words what
+percent approximately of this total
+triangle does that a look like it takes
+up does it look like it's more than 50%
+or less than 50% to you and to me it
+looks like it's a little less than half
+when we look at all this area down here
+that looks like that looks like a little
+bit more than half of the total area so
+if you calculate this Gini coefficient
+for the United States you're going to
+get that that ratio is somewhere around
+point 4 5 for the United States so a
+little less than
+half what does the Gini coefficient mean
+what does that point four or five
+actually tell us nothing really it's
+just a number and the only way to really
+understand what it means so it's not a
+percent really although some people do
+call it a percent all the Gini
+coefficient is is telling us what
+percent of this picture is taken up by
+this lens area here a that's all it
+means so don't give it a whole lot of
+extra interpretation over and above that
+so all you can really do is compare one
+country to another and how high is my
+Gini coefficient compared to the GE
+coefficient of another country so let's
+try to get a little bit of a feel for
+what these Gini coefficients mean is
+this point four or five in the United
+States high low somewhere in the middle
+so to give you an idea of the range of
+these numbers zero again is perfect
+equality you're never going to see that
+one is perfect inequality you're never
+going to see that in the real world
+either but practically speaking when you
+look at Gini coefficients around the
+world and through time about the lowest
+you're ever going to see is about a
+point two to the lowest income
+inequality we see is usually in Nordic
+countries like Finland and Sweden and
+the highest income inequality places are
+places like South Africa
+Lesotho Haiti and those are at about a
+point six three so theoretically the
+Gini coefficient could be between zero
+and one practically speaking maybe point
+two two point seven is about the biggest
+you're ever going to see is 0.7 lowest
+I've ever seen is about a point two so
+when we look at the United States here
+at about 0.45 or somewhere in the middle
+there a lot of people complain about the
+United States having a very unequal
+income yeah compared to Sweden and
+Finland and Norway of course but there
+are a lot of places that are worse off
+so this Gini coefficient over here of
+0.64
+that we drew for this country B where it
+was four
+4% 4% 4% and then the top 20% had 80% of
+the income that's not too far off from
+what we see in countries like South
+Africa Lesotho and Haiti so I've
+provided a link here if you want to look
+at some other Gini coefficients probably
+the easiest way is just to go into
+Google and Google Gini CIA the CIA has
+
+something on their website called the
+World Factbook and in the World Factbook
+they have a long list of Gini
+coefficients one of the bad things about
+this list is that the dates are all over
+the place so some of the data in their
+lists come from the 1990s and some of it
+from the 2000s or 2010's in some of
+these countries it's kind of hard to get
+income data that's very believable or
+very recent so they just use the data
+that they can find pretty easily so
+let's have a look at a few of these Gini
+coefficients from the CIA World Factbook
+as we were talking about Lesotho South
+Africa Micronesia Haiti or here at the
+top with the most unequal incomes with
+high Gini coefficients a lot of times
+you'll see Gini coefficients multiplied
+by a hundred instead of being a number
+between zero and one you can always tell
+whether they've been multiplied because
+if they haven't been multiplied they'll
+be between zero and one if they've been
+multiplied by a hundred you'll see them
+as they are here like 60 55 okay so
+going down the list chill a pretty
+unequal Israel about forty two point
+
+eight the United States here at forty
+five as we were talking about are 0.45
+and this have a quick look at some of
+the most equal countries down here at
+the bottom of the list
+Finland Slovakia Slovenia Ukraine Sweden
+Belgium Belarus Kazakhstan etc and these
+Gini coefficients between about point
+two and about point two six or 0.27 here
+all right so here's just a look at that
+Gini coefficient that we graphed one way
+that you could
+think about calculating the Gini
+coefficient is by going into Excel as I
+have done here and tell Excel that you
+would like to find some kind of function
+here that describes that Gini
+coefficient curves so here we have a
+polynomial with an X to the fourth X to
+the third x squared and X term in it and
+then we could use some fancy math in
+order to calculate those areas but I
+also want to show you what happens to
+this Lorenz curve this Gini coefficient
+when we take into account some things
+that aren't normally taking into account
+so when we talk about income and we ask
+people these questions how much money
+came into this household total in a
+given year we don't take into account
+the fact that many of those higher
+income households pay a lot of that
+money in taxes and also a lot of
+lower-income households get a lot of
+money coming in in terms of rent support
+and food stamps and other sorts of
+things
+we'll talk a little bit more about this
+when we talk about poverty when we
+determine who is in poverty we don't
+take into account a lot of the benefits
+that people get that help them out that
+make their lives a lot better so here's
+what the Lorenz curve would look like if
+we took those taxes that the high income
+people pay into account and the benefits
+that the lower income people get into
+account and just comparing those two in
+one graph the orange one is after the
+people with high income pay a lot of
+those taxes and transfers we see that
+people in the upper group don't get
+quite as large a share of the income
+this lends this area a gets a little
+smaller then if we just use income only
+what does it look like the income in a
+quality measure the Gini coefficient
+would be if we use the orange compared
+to the blue remember the blue gives us a
+Gini coefficient of around 0.45 or 45
+
+percent of the total area
+it looks like a might be maybe five to
+ten percent less so the United States if
+we took into account the fact that we do
+redress drew Butte income quite a bit in
+ways that aren't picked up by the kinds
+of questions we ask when we do these
+surveys we might have a Gini coefficient
+of maybe 0.35 or 0.4 rather than 0.45
+now also within the United States itself
+we have a lot of different places that
+have more or less income inequality so
+here we see that in California a lot of
+income inequality why might that be well
+we know there are a lot of very poor
+people who live in California and also a
+lot of very rich people who are either
+in the tech industry or are in Hollywood
+so California has quite a bit of income
+inequality very rich and very poor Texas
+has a lot of income inequality as does
+most of the South here Mississippi
+Alabama Georgia Virginia North Carolina
+South Carolina are kind of in the middle
+here about 0.47 or 0.48 a little bit
+lower are states in the northwest places
+like Maine Ohio Indiana Kansas Colorado
+and the most equal places in the United
+States are Utah Wyoming Nebraska and
+Iowa Puerto Rico also a very unequal
+part of the United States and Alaska
+here fairly equal Alaska has probably
+has that equality because if you live in
+Alaska you earn money from the
+government based on the oil profits from
+the oil wells in Alaska and that helps
+bring a lot of people who would be in a
+very low income area to have higher
+household incomes here's a map I made
+this is using data that's pretty old now
+this is from the year 2000 data and this
+is calculating Gini coefficients for
+every county in the United States so you
+can see some counties that have very
+high income inequality Los Angeles here
+in the pain
+has higher income inequality you can see
+some of the ones that have more income
+equality in the blue this is using that
+same data from the year 2000 I
+calculated for every county in the
+United States so here's Gini
+coefficients for North Carolina where I
+live and I live in Greensboro and we're
+kind of in the middle Gini coefficient
+around 0.45 would be the white color
+very high income inequality are going to
+be red so here in the northeast of the
+state very low income inequality the
+lowest in the state I believe is Onslow
+County on the coast but also a few of
+these kind of out in the west central
+area one interesting one to look at here
+is this red county right here this is
+Orange County and Orange County is where
+University of North Carolina at Chapel
+Hill is and this is a county where you
+have a lot of very poor people as well
+as a lot of very high income people live
+in this county and lastly let's look at
+income inequality over time in the
+United States it's kind of hard to tell
+what these numbers actually mean the a
+lot of people say the income inequality
+in the United States is getting worse
+and looking at the Gini coefficients
+they are they're getting higher nineteen
+seventy point three nine two thousand
+point four six now in 2007 the income
+inequality actually went down and then
+it started going back up again and this
+is during the recession that we had a
+lot of people with those high incomes
+were hurt a lot and lost their jobs and
+that made incomes more equal which
+raises a question was that a good thing
+that income inequality went down
+whenever all those people with higher
+incomes lost their jobs I don't think so
+so there are a few ways you can bring
+down income inequality and that would be
+by hurting the people with high incomes
+I don't think that's a good way to do it
+another way to help reduce income
+inequality would be to help the people
+at the bottom - to bring them up
+that's probably a much better way but
+why is it very hard why do I say it's
+very hard to tell the meaning of what's
+going on here well because when we look
+over this forty four year period here
+from 1970 to 2014 and we see that the
+income inequality is going up a lot has
+been changing in the United States
+during this time and let me just point
+out a couple of things number one
+remember that the household income is
+what we use to calculate income
+inequality what has happened to the
+number of people in the average
+household over these forty five years
+well the average number of people in a
+household has gone down from around
+three and a half-ish to about two and a
+half and if you have less people living
+in a household you're probably going to
+have more income inequality we have now
+a lot more individual people living in
+households we have a lot more single
+parents raising kids and so that's going
+to mean more households with less income
+since there are just fewer people per
+household on average so it's not
+necessarily a bad thing when you have
+more people choosing to live alone we
+have fewer people choosing to get
+married maybe that's just what makes
+them happy but what that's going to do
+when you have fewer people in households
+and a lot more one or two people
+households fewer family households it's
+going to increase the measures that we
+have of income inequality another big
+change we've had in the United States is
+immigration and this is not to say that
+immigration is a bad thing we just have
+to think about how immigration impacts
+our measures of income inequality
+there are really two main kinds of
+immigrants when I think about
+immigration number one there are a lot
+of high income immigrants that are
+brought into the country by tech firms
+and engineering firms we have a shortage
+of computer programmers a shortage of
+lots of specific high end people in the
+United States and a lot of people are
+brought in by Google and Amazon on these
+special visas for highly paid technical
+people so that's one
+large group of immigrants that we've had
+coming into the United States so we're
+bringing in a lot of people who are
+making really high incomes well that's
+going to increase income inequality on
+the other hand we've also had a lot of
+immigration into the United States from
+people we might call either economic
+refugees or political refugees people
+coming in from places like Syria or
+people coming in from Mexico who want to
+make a better life for themselves and a
+lot of these people not all certainly
+but a lot of these people when they come
+to the United States they don't speak
+English they might have lower amounts of
+education than the average American does
+and it's going to take them a while to
+figure out how to fit in and these
+people are much more likely to have a
+lower income so if you look at a period
+of time and you have a lot of people
+moving to a country that have very high
+incomes and you have a lot of people
+moving in that have very low incomes of
+course that's going to increase the
+amount of income inequality so we need
+to think about how much of this increase
+in income and equality that we're seeing
+over time is due to the idea that the
+rich are getting richer and the poor are
+getting poorer and how much if it might
+be just because there are fewer people
+living in the average household and
+there are different kinds of immigrants
+moving into the country it's interesting
+to think about and I haven't seen anyone
+tried to do research on this topic to
+try to figure out how much of this
+increase comes from these various causes
+that'd be a very interesting thing to do
+all right so I'm going to wrap up this
+video here and in the next video
+we're going to look at our next topic
+where we're going to ask the question
+why is it that some individual people
+make more money or less money than
+others and we'll talk a little bit about
+discrimination and education levels and
+things like that and we'll focus on this
+dangerous dangerous topic of the gender
+wage gap so I hope you join me for that
+video as always if you have any
+questions or want any clarifications
+please let me know I'll be happy to talk
+to you about them otherwise
+the best of luck with all your studies
+guys
+
+
